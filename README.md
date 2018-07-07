@@ -9,4 +9,4 @@ things will appear. more things are better. better are
 more things. eventually things will be better with more
 things.
 
-2014 - 2018 (c)opyleft speechles
+2004 - 2018 (c)opyleft speechles
