@@ -9,7 +9,7 @@
 #       murder and drags his buddy into a crazy flight from mobsters bent on silencing both of them permanently. The film
 #       stars new sensation Seth Rogen (Knocked Up, Superbad, 40 Year Old Virgin) and James Franco
 # <bot> (Spider-Man 1-3) and it co-stars Rosie Perez (Do The Right Thing) and Gary Cole (The Brady Bunch Movie). Movie is
-#       directed by David Gordon Green. MPAA Rating: R © 2008 Columbia Pictures Industries, Inc. and Beverly Blvd LLC. All
+#       directed by David Gordon Green. MPAA Rating: R Â© 2008 Columbia Pictures Industries, Inc. and Beverly Blvd LLC. All
 #       Rights Reserved. ( by Crackle | 1:52:19 | 4.87 rating | 2,053 comments | 670,488 views | 4w 3d 21h 6m 11s ago )
 #
 # >> original script credits below <<
