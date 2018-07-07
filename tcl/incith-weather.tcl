@@ -150,7 +150,7 @@ namespace eval incith {
     variable show_lat_lon 1
 
     # symbol to put beside temperature numbers
-    variable degree_symbol "°"
+    variable degree_symbol "Â°"
 
     # display celcius temperatures first, and fahrenheit in ()
     variable celcius_first 0
