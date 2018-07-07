@@ -671,7 +671,7 @@ namespace eval ::cricketarchive {
 	}
 
 	################################################################################################
-	# Тексты
+	# Г’ГҐГЄГ±ГІГ»
 	
 	set_text en cricketarchive #101 "\00305You must specify #Id match."
 	set_text en cricketarchive #102 "\00305Watching the match #Id %s added to display the current channel."
@@ -684,7 +684,7 @@ namespace eval ::cricketarchive {
 #	set_text en cricketarchive #109 "\00314%s \017>> \00314%s"
       set_text en cricketarchive #109 "12 %s -|- %s %s %s "
 	################################################################################################
-	# Запуск
+	# Г‡Г ГЇГіГ±ГЄ
 	
 	main
 	
